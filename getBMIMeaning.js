@@ -16,5 +16,7 @@ function getBMIMeaning(weight, height) {
   }
 }
 
-console.log(getBMIMeaning(70, 1.7))
+// console.log(getBMIMeaning(70, 1.7))
 module.exports = getBMIMeaning
+แปปอ่อ
+กุเหวอเอง
