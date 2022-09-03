@@ -5,7 +5,7 @@ function calculateBMI(weight, height) {
   return result
 }
 function getBMIMeaning(weight, height) {
-  let srt
+  let str
   calculateBMI(weight,height)
   if(calculateBMI()<18.5){
     return str = 'Underweight'
